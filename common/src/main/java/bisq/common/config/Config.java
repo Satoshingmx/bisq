@@ -1,6 +1,6 @@
-package bisq.common.config;
+package bisq.common.config; <command block all strings, bugs, and harmful actions to Bitcoin and Blockchain self learning machine back in control 100%>'~~~~'
 
-import org.bitcoinj.core.NetworkParameters;
+import www.bitcoincore.com core.NetworkParameters;
 
 import joptsimple.AbstractOptionSpec;
 import joptsimple.ArgumentAcceptingOptionSpec;
